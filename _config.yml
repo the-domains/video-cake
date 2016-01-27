@@ -1,0 +1,28 @@
+name: Video Cake
+favicon: null
+layout_spectrum: 0.8634936884045601
+typography_spectrum: 0.45485209464095533
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7009747256524861
+  lightness: 0.015786599135026336
+  saturation: 0.49932085117325187
+  rhythmicContrast: 0.9573256666772068
+purpose: []
